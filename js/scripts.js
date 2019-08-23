@@ -22,34 +22,18 @@ function toRoman(inputNumber) {
       var i = (i-1);
         var inputNumber = i;
       }
+    }
+  }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  //front end
 $(document).ready(function(){
   $("form#numberForm").submit(function(){
     event.preventDefault();
+    var inputNumber = parseInt($("input[name=numberInput]").val());
+    toRoman(inputNumber);
+    romanNumber = romanNumber.join("")
 
+    console.log(romanNumber);
+    $("p#results").text(romanNumber);
   });
 });
