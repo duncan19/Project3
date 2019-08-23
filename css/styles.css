@@ -6,6 +6,9 @@
 } */
 h3{
   margin: 100 px;
-  color: red;
-  font-size: 13;
+  color: blue;
+  font-size: 8;
+}
+body{
+  background-color: grey;
 }
