@@ -1,5 +1,5 @@
 
-# _Beep Boop_
+# _Beep Boop!_
 
 #### _changes numbers to special messages, 8.23.19_
 
@@ -8,12 +8,13 @@
 ## Description
 
 _link to the google docs of the Specs https://docs.google.com/document/d/1trvO7RJyXppjpiELIiSBm5J-MqrdBWshovt9eWreVwU/edit?usp=sharing ._
+_this webpage will allow the user to input a number and it be returned back to them with beeps boops and another special message through the use of arrays_
 
 ## Setup/Installation Requirements
 
 * _Clone this repository_
 * _Navigate to the file_
-* _open the index.html_
+* _open the link provided by index.html_
 * _Insert number into the form_
 
 
@@ -25,7 +26,7 @@ _There are currently bugs revolving around the java script allowing it to not fu
 
 ## Support and contact details
 
-_{If you need assistance contact me at duncanrobbins19@gmail.com_
+_If you need assistance contact me at duncanrobbins19@gmail.com or call 503-567-8234_
 
 ## Technologies Used
 
